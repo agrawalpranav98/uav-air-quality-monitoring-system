@@ -107,6 +107,22 @@ The system performs the following operations:
 
 ---
 
+## Hardware Setup
+
+Actual sensor and communication setup used for data acquisition and wireless transmission.
+
+<p align="center">
+  <img src="docs/setup1.jpg" width="45%" />
+  <img src="docs/setup2.jpg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="docs/setup3.jpg" width="45%" />
+  <img src="docs/setup4.jpg" width="45%" />
+</p>
+
+---
+
 ## Note
 
 This repository contains a simplified and non-confidential representation of work carried out during my time at CSIR–NEERI.
